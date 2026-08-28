@@ -27,15 +27,6 @@ Sempre fui fascinada por resolver problemas e facilitar a vida das pessoas. Hoje
 
 ---
 
-### 💻 TERMINAL // OBJETIVOS ATUAIS
-
-```bash
-eduarda@menna-os:~$ status --current
-[>] FORMANDO: Técnico em Desenvolvimento de Sistemas
-[>] FOCO TÉCNICO: Python, SQL & Integração com APIs de IA
-[>] MISSÃO: Criar soluções de alto impacto orientadas a dados
-[>] PLATAFORMA: Cursos e Bootcamps ativos na DIO (Digital Innovation One)
-
 ### 🛠️ TECH STACK & FERRAMENTAS
 
 <div align="center">

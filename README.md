@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- TYPING ANIMATION BANNER -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=SYSTEM.INITIALIZE();+WELCOME!;EDUARDA+MENNA+//+DEV+%2B+CX;PYTHON+%7C+SQL+%7C+AI+GENERATIVA" alt="Typing Animation" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=SYSTEM.INITIALIZE();+WELCOME!;EDUARDA+MENNA+//+DEV+%2B+CX;PYTHON+%7C+SQL+%7C+AI+GENERATIVA](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=SYSTEM.INITIALIZE();+WELCOME!;EDUARDA+MENNA+//+DEV+%2B+CX;PYTHON+%7C+SQL+%7C+AI+GENERATIVA)" alt="Typing Animation" />
   </a>
 
   <p align="center">
@@ -10,9 +10,9 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/eduarda-menna-4448b02aa"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:mennaeduarda1485@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://web.dio.me/users/mennaeduarda1485"><img src="https://img.shields.io/badge/DIO_PROFILE-00F0FF?style=for-the-badge&logo=rocket&logoColor=black" /></a>
+    <a href="[https://www.linkedin.com/in/eduarda-menna-4448b02aa](https://www.linkedin.com/in/eduarda-menna-4448b02aa)"><img src="[https://img.shields.io/badge/LINKEDIN-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+    <a href="mailto:mennaeduarda1485@gmail.com"><img src="[https://img.shields.io/badge/GMAIL-5A189A?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/GMAIL-5A189A?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+    <a href="[https://web.dio.me/users/mennaeduarda1485](https://web.dio.me/users/mennaeduarda1485)"><img src="[https://img.shields.io/badge/DIO_PROFILE-9D4EDD?style=for-the-badge&logo=rocket&logoColor=white](https://img.shields.io/badge/DIO_PROFILE-9D4EDD?style=for-the-badge&logo=rocket&logoColor=white)" /></a>
   </p>
 
 </div>
@@ -27,15 +27,27 @@ Sempre fui fascinada por resolver problemas e facilitar a vida das pessoas. Hoje
 
 ---
 
+### 💻 TERMINAL // OBJETIVOS ATUAIS
+
+```bash
+eduarda@menna-os:~$ status --current
+[>] FORMANDO: Técnico em Desenvolvimento de Sistemas
+[>] FOCO TÉCNICO: Python, SQL & Integração com APIs de IA
+[>] MISSÃO: Criar soluções de alto impacto orientadas a dados
+[>] PLATAFORMA: Cursos e Bootcamps ativos na DIO (Digital Innovation One)
+```
+
+---
+
 ### 🛠️ TECH STACK & FERRAMENTAS
 
 <div align="center">
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Dados** | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **DevOps & Controle** | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **IA & Produtividade** | ![](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) |
+| **Linguagens & Dados** | ![](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/SQL-5A189A?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white) |
+| **DevOps & Controle** | ![](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white) |
+| **IA & Produtividade** | ![]([https://img.shields.io/badge/Gemini_AI-9D4EDD?style=for-the-badge&logo=google&logoColor=white](https://img.shields.io/badge/Gemini_AI-9D4EDD?style=for-the-badge&logo=google&logoColor=white)) ![]([https://img.shields.io/badge/ChatGPT-5A189A?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/ChatGPT-5A189A?style=for-the-badge&logo=openai&logoColor=white)) |
 
 </div>
 
@@ -59,18 +71,18 @@ Sempre fui fascinada por resolver problemas e facilitar a vida das pessoas. Hoje
 <div align="center">
 
   <!-- TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mennaeduarda1485&theme=cyberpunk&column=4&margin-w=15" alt="Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=mennaeduarda1485&theme=dracula&column=4&margin-w=15](https://github-profile-trophy.vercel.app/?username=mennaeduarda1485&theme=dracula&column=4&margin-w=15)" alt="Trophies" />
 
   <br/><br/>
 
   <!-- STATS & TOP LANGS -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mennaeduarda1485&show_icons=true&theme=cyberpunk&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennaeduarda1485&layout=compact&theme=cyberpunk&hide_border=false" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=mennaeduarda1485&show_icons=true&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&count_private=true](https://github-readme-stats.vercel.app/api?username=mennaeduarda1485&show_icons=true&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&count_private=true)" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mennaeduarda1485&layout=compact&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=mennaeduarda1485&layout=compact&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&hide_border=false)" />
 
   <br/><br/>
 
   <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennaeduarda1485&theme=cyberpunk" alt="Streak Stats" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mennaeduarda1485&background=0D1117&border=7B2CBF&stroke=7B2CBF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideTitle=C77DFF&currStreakLabel=C77DFF](https://github-readme-streak-stats.herokuapp.com/?user=mennaeduarda1485&background=0D1117&border=7B2CBF&stroke=7B2CBF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideTitle=C77DFF&currStreakLabel=C77DFF)" alt="Streak Stats" />
 
 </div>
 
@@ -79,7 +91,7 @@ Sempre fui fascinada por resolver problemas e facilitar a vida das pessoas. Hoje
 ### 🐍 CONTRIBUTION GRAPH // SNAKE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mennaeduarda1485/mennaeduarda1485/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="[https://raw.githubusercontent.com/mennaeduarda1485/mennaeduarda1485/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mennaeduarda1485/mennaeduarda1485/output/github-contribution-grid-snake.svg)" alt="Snake Animation" />
 </div>
 
 ---

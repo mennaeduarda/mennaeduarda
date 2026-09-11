@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- TYPING ANIMATION BANNER -->
   <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
     <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=SYSTEM.INITIALIZE();+WELCOME!;EDUARDA+MENNA+//+DEV+%2B+CX;PYTHON+%7C+SQL+%7C+AI+GENERATIVA](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=SYSTEM.INITIALIZE();+WELCOME!;EDUARDA+MENNA+//+DEV+%2B+CX;PYTHON+%7C+SQL+%7C+AI+GENERATIVA)" alt="Typing Animation" />
   </a>
 
   <p align="center">
-    <b>CX de raiz ⚡ Dev em formação ⚡ Entusiasta de Inteligência Artificial</b>
+    <b>CX de raiz ⚡ Dev em formação ⚡ Entusiasta da Inteligência Artificial</b>
   </p>
 
   <p align="center">
@@ -57,41 +56,11 @@ eduarda@menna-os:~$ status --current
 
 <div align="center">
 
-| 📊 Customer Feedback AI | 🍔 Menu Assistant | 🚚 Freight Simulator |
+| 📊 Customer Feedback AI | 🍔 CineBites | 🚚 BellaMake Estoque |
 | :---: | :---: | :---: |
-| Análise automática de avaliações de clientes utilizando Python e API de IA. | Recomendador inteligente de pratos em SQL e Python com base no perfil do usuário. | Calculadora logística de preço dinâmico e tempo de entrega. |
+| Análise automática de avaliações de clientes utilizando Python e API de IA. |  Aplicação que une gastronomia e cinema, trazendo receitas famosas de filmes de acordo com a geladeira do usuário. | Sistema de controle de estoque com login de usuário. |
 | `Python` `SQL` `IA` | `Python` `Flask` `SQL` | `HTML/CSS` `Python` |
 
-</div>
-
----
-
-### 🏆 GITHUB TROPHIES & STATS
-
-<div align="center">
-
-  <!-- TROPHIES -->
-  <img src="[https://github-profile-trophy.vercel.app/?username=mennaeduarda1485&theme=dracula&column=4&margin-w=15](https://github-profile-trophy.vercel.app/?username=mennaeduarda1485&theme=dracula&column=4&margin-w=15)" alt="Trophies" />
-
-  <br/><br/>
-
-  <!-- STATS & TOP LANGS -->
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=mennaeduarda1485&show_icons=true&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&count_private=true](https://github-readme-stats.vercel.app/api?username=mennaeduarda1485&show_icons=true&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&count_private=true)" />
-  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mennaeduarda1485&layout=compact&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=mennaeduarda1485&layout=compact&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7B2CBF&hide_border=false)" />
-
-  <br/><br/>
-
-  <!-- STREAK STATS -->
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mennaeduarda1485&background=0D1117&border=7B2CBF&stroke=7B2CBF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideTitle=C77DFF&currStreakLabel=C77DFF](https://github-readme-streak-stats.herokuapp.com/?user=mennaeduarda1485&background=0D1117&border=7B2CBF&stroke=7B2CBF&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideTitle=C77DFF&currStreakLabel=C77DFF)" alt="Streak Stats" />
-
-</div>
-
----
-
-### 🐍 CONTRIBUTION GRAPH // SNAKE
-
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/mennaeduarda1485/mennaeduarda1485/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mennaeduarda1485/mennaeduarda1485/output/github-contribution-grid-snake.svg)" alt="Snake Animation" />
 </div>
 
 ---
